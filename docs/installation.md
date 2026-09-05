@@ -25,3 +25,8 @@ Open the application and sign in using your account.
 ## Next steps
  
 After installation, continue with the [Getting Started](getting-started.md) guide.
+
+
+### Next Steps
+
+Continue the proceedings
