@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 - [Getting Started](#getting-started)
   - [Before you begin](#before-you-begin)
   - [Next steps](#next-steps)

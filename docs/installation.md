@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Installation
  
 This guide explains how to install the product.

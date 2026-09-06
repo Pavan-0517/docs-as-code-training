@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Administration
  
 Administrators can manage users, roles, and system settings.
